@@ -33,7 +33,7 @@ Android Studio
 RecyclerView
 
 ▶️ Execução
-git clone https://github.com/seu-usuario/seu-repo.git
+(https://github.com/KarinBagietto/AppLista.git)
 
 Abrir no Android Studio e rodar o projeto.
 
